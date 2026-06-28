@@ -60,7 +60,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="flex flex-wrap items-center gap-4 md:gap-6 mb-8 font-mono text-xs uppercase tracking-[0.2em] text-[#A3A3A3]"
         >
-          <span>Mumbai, India</span>
+          <span>Indore, India</span>
           <span className="hidden md:inline text-[#262626]">·</span>
           <span>Portfolio v1.0</span>
           <span className="hidden md:inline text-[#262626]">·</span>

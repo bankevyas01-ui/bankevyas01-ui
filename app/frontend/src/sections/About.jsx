@@ -107,10 +107,10 @@ export default function About() {
 
                 {/* Overlay Labels */}
                 <div className="absolute top-3 left-3 font-mono text-[10px] uppercase tracking-[0.3em] text-[#FF3300] bg-[#050505]/80 px-2 py-1">
-                  BV_001
+
                 </div>
                 <div className="absolute bottom-3 left-3 font-mono text-[10px] uppercase tracking-[0.3em] text-[#A3A3A3] bg-[#050505]/80 px-2 py-1">
-                  ~/$ whoami
+
                 </div>
               </div>
             </div>
